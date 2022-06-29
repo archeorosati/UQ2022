@@ -2,6 +2,8 @@
 
 ### Pagina ufficiale dell'evento che si terrà il 26-27 dicembre 2022 presso il museo ETRU di Villa Giulia.
 
+*La creazione del sito e della pagina sono attraverso un processo partecipato! Poi dare anche tu il tuo contributo attraverso Github!
+
 > #### Partecipa!
 >
 > - Iscriviti.
